@@ -24,10 +24,10 @@ npm install -g generator-stanlee-wptheme
 mkdir my-new-theme && cd $_
 ```
 
-##### Run `yo wordpress-s-theme`, and fill the info:
+##### Run `yo stanlee-wptheme`, and fill the info:
 
 ```bash
-yo generator-stanlee-wptheme
+yo stanlee-wptheme
 ```
 
 ## Gulp usage
