@@ -8,44 +8,38 @@ Générateur [Yeoman](http://yeoman.io/) pour un thème de démarrage de WordPre
 ## Installation
 
 
-##### Install required tools `yo` and `gulp`:
-##### Installer les outils `yo` et `gulp`:
+##### Install required tools `yo` and `gulp`: || Installer les outils `yo` et `gulp`:
 
 ```bash
 npm install -g yo gulp
 ```
 
 
-##### Install `generator-stanlee-wptheme`:
-##### Installer `generator-stanlee-wptheme`:
+##### Install `generator-stanlee-wptheme`: || Installer `generator-stanlee-wptheme`:
 
 ```bash
 npm install -g generator-stanlee-wptheme
 ```
 
 
-### Run
-### Exécuter
+### Run || Exécuter
 
 
-##### Create a new directory, and go into:
-##### Créez un nouveau répertoire et aller dedans:
+##### Create a new directory, and go into: || Créez un nouveau répertoire et aller dedans:
 
 ```bash
 mkdir my-new-theme && cd $_
 ```
 
 
-##### Run `yo stanlee-wptheme`, and fill the info:
-##### Exécuter `yo stanlee-wptheme`, et remplir les informations:
+##### Run `yo stanlee-wptheme`, and fill the info: || Exécuter `yo stanlee-wptheme`, et remplir les informations:
 
 ```bash
 yo stanlee-wptheme
 ```
 
 
-## Gulp usage
-## Utilisation de Gulp
+## Gulp usage || Utilisation de Gulp
 
 - Run `gulp` to watch for changes
 - Exécuter `gulp` pour voir les changements
@@ -57,8 +51,7 @@ yo stanlee-wptheme
 - (Option) Exécuter `gulp build-clean` avant `gulp build` pour vider le dossier `./dist/`
 
 
-## Bower usage
-## Utilisation de Bower
+## Bower usage || Utilisation de Bower
 
 - Run `bower install --save <package>` to install frontend dependencies
 - Exécuter `bower install --save <package>` pour installer les dépendances frontend
@@ -66,8 +59,7 @@ yo stanlee-wptheme
 - Run `gulp wiredep` to include SCSS file in `/sass/style.scss`
 - Exécuter `gulp wiredep` pour inclure un fichier SCSS dans `/sass/style.scss`
 
-## License
-## Licence
+## License || Licence
 
 [MIT](http://opensource.org/licenses/MIT)
 Copyright (c) 2016 [Thomas & Mathilde]
