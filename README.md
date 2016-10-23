@@ -2,7 +2,7 @@
 
 [Yeoman](http://yeoman.io/) generator for a WordPress starter theme (using [StanLee](https://github.com/tomtomgo92/StanLee)) with [Gulp](http://gulpjs.com/) and other good stuff. This will install the last version of `StanLee` and optionally a Gulp setup ready for development and production.
 
-Générateur [Yeoman](http://yeoman.io/) pour un thème de démarrage de WordPress (Utilisant [StanLee](https://github.com/tomtomgo92/StanLee)). Utilise Gulp](http://gulpjs.com/) et d'autres bonnes choses. Cela permet d'installer la dernière version de `StanLee` et optionnellement une configuration de Gulp prêt au développement et la production.
+Générateur [Yeoman](http://yeoman.io/) pour un thème de démarrage de WordPress (Utilisant [StanLee](https://github.com/tomtomgo92/StanLee)). Utilise [Gulp](http://gulpjs.com/) et d'autres bonnes choses. Cela permet d'installer la dernière version de `StanLee` et optionnellement une configuration de Gulp prêt au développement et la production.
 
 Installation Version [FRANCAISE](https://github.com/tomtomgo92/StanLee-WPTheme-Generator/wiki/Installation)
 
