@@ -1,7 +1,7 @@
 {
   "name": "StanLee-WPTheme-Generator",
-  "version": "1.0.0",
-  "description": "Yeoman generator for a WordPress starter theme (using Underscores) with Gulp and other good stuff",
+  "version": "1.0.1",
+  "description": "Generator for a WordPress starter theme (using Stan Lee) with Gulp, Bootstrap and other good stuff",
   "files": [
     "app"
   ],
@@ -14,7 +14,8 @@
     "wordpress",
     "theme",
     "underscores",
-    "_s"
+    "_s",
+    "Stan Lee",
   ],
   "author": "Mathilde and Thomas based on pakage MNyorba",
   "license": "MIT",
